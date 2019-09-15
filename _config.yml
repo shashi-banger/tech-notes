@@ -22,7 +22,7 @@ title: Tech Notes
 email: bangu97@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Tech notes for my reference.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/tech-notes" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shashi-banger
 
