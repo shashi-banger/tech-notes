@@ -22,7 +22,7 @@ title: AI, Computer Vision, Math
 email: bangu97@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Documenting for self reference
-baseurl: "/mindspace" # the subpath of your site, e.g. /blog
+baseurl: "/tech-notes" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shashi-banger
 
