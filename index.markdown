@@ -7,9 +7,10 @@ layout: default
 
 # Computer Vision
 
-- [ComputerVision, AI and ML](computer_vision_machine_learning_links.html)
-- [Neural Net quick reference](cnn_visual_recognition.html)
+- [ComputerVision, AI and ML](docs/computer_vision_machine_learning_links.html)
+- [Neural Net quick reference](docs/cnn_visual_recognition.html)
+
 
 # Reinforcement Learning
 
-- [Reinforcement Learning](reinforcement_learning.html) from [bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [Reinforcement Learning](docs/reinforcement_learning.html) from [bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)

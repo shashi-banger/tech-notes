@@ -8,7 +8,7 @@ Notes based on [lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8
 ## Backpropogation example
 
 <div class="fig figleft fighighlight">
-<img src="assets/images/backprop_eg.svg" alt="">
+<img src="{{site.baseurl}}/assets/images/backprop_eg.svg" alt="">
 <div class="figcaption">
   The figure above is an example of a computational graph.
 
