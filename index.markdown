@@ -5,8 +5,6 @@
 layout: default
 ---
 
-#
-
 ## Computer Vision
 
 - [ComputerVision, AI and ML](docs/computer_vision_machine_learning_links.html)

@@ -1,8 +1,8 @@
 ---
 layout: page
+title: CNNs for Visual Recognition
 ---
 
-# CNNs for Visual Recognition
 Notes based on [lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ## Backpropogation example
