@@ -5,11 +5,10 @@
 layout: default
 ---
 
-## Computer Vision
+## [Courses](docs/courses.html)
 
-- [ComputerVision, AI and ML](docs/computer_vision_machine_learning_links.html)
-- [Neural Net quick reference](docs/cnn_visual_recognition.html)
+## Notes
+- [Neural Networks](docs/cnn_visual_recognition.html)
+- [Reinforcement Learning](docs/reinforcement_learning.html)
+- [Linear Algebra](docs/linear_algebra.html)
 
-## Reinforcement Learning
-
-- [Reinforcement Learning](docs/reinforcement_learning.html) from [bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
